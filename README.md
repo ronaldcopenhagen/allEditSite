@@ -1,2 +1,2 @@
 # allEditSite
-The collaborative open source site that everyone can contribute to. 
+The collaborative open source website that anyone can contribute to. 
